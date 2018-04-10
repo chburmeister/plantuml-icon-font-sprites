@@ -1,3 +1,4 @@
+@startuml 
 sprite $kafka [48x48/16] {
 000000000000000000000000000000000000000000000000
 00000000000000059BA51000000000000000000000000000
@@ -56,4 +57,3 @@ sprite $kafka [48x48/16] {
 !define DEV_KAFKA(_alias,_label,_shape,_color) ENTITY(_shape,_color,kafka,_label,_alias,DEV KAFKA)
 skinparam folderBackgroundColor<<DEV KAFKA>> White
 @enduml
-

@@ -108,6 +108,7 @@
 |javascript |DEV_JAVASCRIPT |![image-javascript](javascript.png) | javascript.puml |
 |js_badge |DEV_JS_BADGE |![image-js_badge](js_badge.png) | js_badge.puml |
 |jquery_ui_logo |DEV_JQUERY_UI_LOGO |![image-jquery_ui_logo](jquery_ui_logo.png) | jquery_ui_logo.puml |
+|kafka |DEV_KAFKA |![image-kafka](kafka.png) | kafka.puml |
 |komodo |DEV_KOMODO |![image-komodo](komodo.png) | komodo.puml |
 |laravel |DEV_LARAVEL |![image-laravel](laravel.png) | laravel.puml |
 |krakenjs_badge |DEV_KRAKENJS_BADGE |![image-krakenjs_badge](krakenjs_badge.png) | krakenjs_badge.puml |
